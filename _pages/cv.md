@@ -25,7 +25,7 @@ Experience
 ======
 * GLM Team, Core Contributor
   * Led GLM post-training for improved reasoning and alignment.
-  * Lead agent contributor for GLM-4.5.
+  * Project lead for the GLM-4.5 series models.
   * Drove LLM training/evaluation iterations for agentic and coding capabilities.
   
 Skills
@@ -55,6 +55,6 @@ Teaching
   
 Professional profiles
 ======
-* OpenReview: https://openreview.net/profile?id=~Zhenyu_Hou1
-* MADSys: https://www.madsys.cs.tsinghua.edu.cn/author/zhenyuhou/
-* DBLP: https://dblp.org/pid/248/9148.html
+* Google Scholar: https://scholar.google.com/citations?hl=zh-CN&oi=ao&user=44W9SfwAAAAJ
+* GitHub: https://github.com/think2try
+* KEG: https://keg.cs.tsinghua.edu.cn/

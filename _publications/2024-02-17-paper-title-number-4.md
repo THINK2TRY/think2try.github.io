@@ -7,6 +7,7 @@ excerpt: "ICML 2022 paper proposing masked autoencoding for self-supervised grap
 date: 2022-07-01
 venue: "International Conference on Machine Learning (ICML)"
 paperurl: "https://proceedings.mlr.press/v162/hou22c.html"
+githuburl: "https://github.com/THUDM/GraphMAE"
 citation: "Hou, Z., Liu, X., Cen, Y., Dong, Y., Jiang, H., Yang, H., Wang, C., and Tang, J. (2022). &quot;GraphMAE: Self-Supervised Masked Graph Autoencoders.&quot; <i>ICML</i>."
 ---
 
