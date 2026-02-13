@@ -12,14 +12,11 @@ redirect_from:
 Education
 ======
 * PhD in Computer Science and Technology, Tsinghua University, 2021-present
-* BEng in Computer Science and Technology, Tsinghua University, 2017-2021
+* Bachelor's degree in Computer Science and Technology, Department of Computer Science and Technology (DCST), Tsinghua University, 2017-2021
 
 Research interests
 ======
-* Graph machine learning
-* Self-supervised learning
-* Recommender systems and robustness
-* Large language models, reasoning, and agent systems
+Language Model Agent and Reasoning; Reinforcement Learning; LLM Alignment; Self-Supervised Learning
 
 Experience
 ======
