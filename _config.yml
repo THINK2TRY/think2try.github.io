@@ -29,9 +29,8 @@ author:
   bio              : "PhD student, Tsinghua University. Research: graph learning, self-supervised learning, and recommendation systems."
   location         : "Beijing, China"
   employer         : "Tsinghua University"
-  uri              : "https://www.madsys.cs.tsinghua.edu.cn/people/"
-  email            :
-
+  uri              :
+  email            : "zhenyu.hou08@gmail.com"
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
