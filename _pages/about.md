@@ -19,12 +19,6 @@ I work at the intersection of **research and engineering** for **Language Models
 - Agentic capability design and evaluation for foundation models.
 - Alignment and safety tuning with practical deployment constraints.
 
-## Highlights
-
-- Tech lead, GLM-5: led post-training efforts focused on reasoning, alignment, and robust behavior in real applications.
-- Tech lead, GLM-4.5: drove agentic capability design, evaluation, and iterative improvement.
-- GraphMAE (KDD 2022): one of the most-cited papers among KDD 2022 related works.
-
 ## Selected Publications
 
 1. *GLM-5: from Vibe Coding to Agentic Engineering* (arXiv 2026, Tech Leads) [[arXiv]](https://arxiv.org/abs/2602.15763)
