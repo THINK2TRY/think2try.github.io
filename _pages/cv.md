@@ -3,6 +3,8 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+excerpt: "Curriculum vitae of Zhenyu Hou: education, research experience, publications, talks, and teaching."
+description: "CV of Zhenyu Hou, PhD student at Tsinghua University, focusing on language models, agents, and reinforcement learning."
 redirect_from:
   - /resume
 ---

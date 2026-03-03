@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Zhenyu Hou"
 title_separator          : "-"
 name                     : &name "Zhenyu Hou"
-description              : &description "PhD student at Tsinghua University working on graph learning, self-supervised learning, and recommender systems."
+description              : &description "PhD student at Tsinghua University working on language models, agents, and reinforcement learning, with a focus on post-training for reasoning and alignment."
 url                      : https://think2try.github.io
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Zhenyu Hou"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student, Tsinghua University. Research: graph learning, self-supervised learning, and recommendation systems."
+  bio              : "Language Model; Agent; Reinforcement Learning. My recent work centers on post-training for reasoning and alignment."
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              :
@@ -142,14 +142,17 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "profile.png" # Social media default site image
+og_description           : "Zhenyu Hou — PhD student at Tsinghua University. Research and engineering on language models, agents, and reinforcement learning."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person" # Person or Organization
+  name                   : "Zhenyu Hou"
+  links:
+    - "https://scholar.google.com/citations?hl=zh-CN&oi=ao&user=44W9SfwAAAAJ"
+    - "https://github.com/think2try"
+    - "https://keg.cs.tsinghua.edu.cn/"
 
 
 # Analytics
