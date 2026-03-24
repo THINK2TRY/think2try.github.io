@@ -23,7 +23,9 @@ I work at the intersection of **research and engineering** for **Language Models
 
 1. *GLM-5: from Vibe Coding to Agentic Engineering* (arXiv 2026, Tech Leads) [[arXiv]](https://arxiv.org/abs/2602.15763)
 1. *GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models* (arXiv 2025) [[arXiv]](https://arxiv.org/abs/2508.06471)
+1. *Does RLHF Scale? Exploring the Impacts From Data, Model, and Method* (ICLR 2025) [[arXiv]](https://arxiv.org/abs/2412.06000)
 1. *T1: Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling* (ICML 2025) [[arXiv]](https://arxiv.org/abs/2501.11651)
+1. *ChatGLM-RLHF: Practices of Aligning Large Language Models with Human Feedback* (arXiv 2024) [[arXiv]](https://arxiv.org/abs/2404.00934)
 1. *GraphMAE: Self-Supervised Masked Graph Autoencoders* (KDD 2022) [[arXiv]](https://arxiv.org/abs/2205.10803) [[GitHub]](https://github.com/THUDM/GraphMAE)
 1. *GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner* (WWW 2023) [[arXiv]](https://arxiv.org/abs/2304.04779) [[GitHub]](https://github.com/THUDM/GraphMAE2)
 
@@ -37,5 +39,6 @@ See the full list on the [Publications](/publications/) page.
 ## Recent Updates
 
 - **2026**: GLM-5 released as our latest step from vibe coding toward agentic engineering.
-- **2025**: GLM-4.5 introduced ARC-oriented capabilities for reasoning and coding tasks.
-- **2022–2023**: GraphMAE and GraphMAE2 established a strong line of self-supervised graph representation learning.
+- **2025**: *Does RLHF Scale?* accepted at ICLR 2025; *T1* accepted at ICML 2025; GLM-4.5 released.
+- **2024**: *ChatGLM-RLHF* and *Harnessing LLMs for Hyperedge Prediction* (AAAI 2024) published.
+- **2022–2023**: GraphMAE (KDD 2022), GraphMAE2 (WWW 2023), MTDiag (AAAI 2023), and CogDL (WWW 2023) published.
