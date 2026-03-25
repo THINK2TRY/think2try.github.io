@@ -6,6 +6,7 @@ permalink: /publication/2024-llm-hyperedge-prediction
 excerpt: "Using LLMs and hypergraph learning for hyperedge prediction tasks."
 date: 2024-02-01
 venue: "AAAI Conference on Artificial Intelligence (AAAI)"
+authors: "<b>Zhenyu Hou</b>, Yufei Fang, Ziding Liu, Yukuo Cen, Vincent W. Zheng, Jie Tang"
 paperurl: "https://openreview.net/forum?id=rYFRfQojfV"
 citation: "Hou, Z., Fang, Y., Liu, Z., Cen, Y., Zheng, V., and Tang, J. (2024). &quot;Harnessing Large Language Models for Hyperedge Prediction.&quot; <i>AAAI</i>."
 ---
